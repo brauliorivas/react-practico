@@ -34,5 +34,13 @@
     "sass": "^1.38.0",
     "sass-loader": "^12.1.0",
     "style-loader": "^3.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platzi/react-practico.git"
+  },
+  "bugs": {
+    "url": "https://github.com/platzi/react-practico/issues"
+  },
+  "homepage": "https://github.com/platzi/react-practico#readme"
 }
